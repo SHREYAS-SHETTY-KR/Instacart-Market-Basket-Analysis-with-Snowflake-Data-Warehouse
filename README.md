@@ -119,7 +119,7 @@ FILE_FORMAT = (FORMAT_NAME = 'csv_file_format');
 
 ### 4. Building Dimensional and Fact Tables
 
-![WhatsApp Image 2024-05-20 at 10 01 43_b386e1d9](https://github.com/SHREYAS-SHETTY-KR/Instacart-Market-Basket-Analysis-with-Snowflake-Data-Warehouse/assets/79562771/5001d0f0-b551-45a6-9997-8e73e056cb8e)
+![Screenshot (39)](https://github.com/SHREYAS-SHETTY-KR/Instacart-Market-Basket-Analysis-with-Snowflake-Data-Warehouse/assets/79562771/02aa4696-64e8-44e4-a366-69eab1cb9190)
 
 
 #### Create dimension and fact tables for analytical queries.
